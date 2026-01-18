@@ -2,7 +2,6 @@ param(
     [string]$wowInstallPath = "Z:\BlizzardLibrary\World of Warcraft"
 )
 
-$wowInstallPath = "Z:\BlizzardLibrary\World of Warcraft"
 $wowVersionFolders = "_anniversary_", "_classic_", "_classic_era_", "_retail_"
 $wowCacheFolders = "Cache", "Interface", "WTF"
 
