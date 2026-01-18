@@ -3,7 +3,7 @@ param(
 )
 
 $wowInstallPath = "Z:\BlizzardLibrary\World of Warcraft"
-$wowVersionFolders = "_classic_", "_classic_era_", "_retail_", "_anniversary_"
+$wowVersionFolders = "_anniversary_", "_classic_", "_classic_era_", "_retail_"
 $wowCacheFolders = "Cache", "Interface", "WTF"
 
 foreach ($wowVersionFolder in $wowVersionFolders)
